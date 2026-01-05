@@ -1,0 +1,301 @@
+customer_id,age,gender,annual_income,spending_score,purchase_history,review_text,churned,clean_review,sentiment
+1001,56,Female,70990,35,Electronics,Highly recommend this product,Yes,highly recommend product,positive
+1002,46,Female,95672,94,Sports,Not worth the money,No,worth money,neutral
+1003,32,Female,85545,95,Groceries,Too expensive for the quality,No,expensive quality,negative
+1004,60,Male,104791,49,Sports,"Terrible service, not happy",Yes,terrible service happy,neutral
+1005,25,Female,78141,69,Groceries,Highly recommend this product,No,highly recommend product,positive
+1006,38,Male,43793,62,Home Decor,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1007,56,Male,76570,60,Sports,Highly recommend this product,No,highly recommend product,positive
+1008,36,Female,115084,50,Home Decor,Too expensive for the quality,Yes,expensive quality,negative
+1009,40,Female,57892,78,Fashion,Exceeded my expectations,No,exceeded expectations,positive
+1010,28,Female,21015,75,Fashion,"Terrible service, not happy",No,terrible service happy,neutral
+1011,28,Female,81813,9,Electronics,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1012,41,Female,47712,34,Sports,Too expensive for the quality,Yes,expensive quality,negative
+1013,53,Male,28415,76,Home Decor,Too expensive for the quality,Yes,expensive quality,negative
+1014,57,Male,82292,99,Groceries,"Great quality, very satisfied",No,great quality satisfied,positive
+1015,41,Male,43833,35,Fashion,"Terrible service, not happy",No,terrible service happy,neutral
+1016,20,Male,24158,1,Fashion,Highly recommend this product,No,highly recommend product,positive
+1017,39,Female,82680,40,Groceries,"Product was okay, could be better",No,product okay could better,neutral
+1018,19,Male,40309,64,Home Decor,Exceeded my expectations,Yes,exceeded expectations,positive
+1019,41,Female,26970,22,Home Decor,"Product was okay, could be better",No,product okay could better,neutral
+1020,61,Female,92474,60,Sports,Highly recommend this product,No,highly recommend product,positive
+1021,47,Female,106704,64,Sports,Highly recommend this product,Yes,highly recommend product,positive
+1022,55,Female,66540,93,Electronics,"Terrible service, not happy",Yes,terrible service happy,neutral
+1023,19,Female,40384,72,Fashion,Highly recommend this product,Yes,highly recommend product,positive
+1024,38,Female,38017,11,Sports,"Great quality, very satisfied",No,great quality satisfied,positive
+1025,50,Male,95880,14,Home Decor,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1026,29,Female,28702,60,Groceries,Highly recommend this product,No,highly recommend product,positive
+1027,39,Male,20384,30,Home Decor,"Product was okay, could be better",No,product okay could better,neutral
+1028,61,Male,20404,35,Fashion,Highly recommend this product,No,highly recommend product,positive
+1029,42,Female,60943,85,Home Decor,"Great quality, very satisfied",No,great quality satisfied,positive
+1030,44,Male,67926,37,Electronics,Not worth the money,No,worth money,neutral
+1031,59,Female,49189,5,Fashion,Not worth the money,Yes,worth money,neutral
+1032,45,Female,32763,83,Groceries,Too expensive for the quality,Yes,expensive quality,negative
+1033,33,Female,38384,78,Electronics,Exceeded my expectations,Yes,exceeded expectations,positive
+1034,32,Male,80100,26,Fashion,"Loved it, will buy again",Yes,loved buy,positive
+1035,64,Male,118142,62,Groceries,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1036,61,Female,29860,4,Electronics,Customer support was unhelpful,No,customer support unhelpful,negative
+1037,20,Male,100642,89,Electronics,Too expensive for the quality,Yes,expensive quality,negative
+1038,54,Female,70612,42,Fashion,Exceeded my expectations,Yes,exceeded expectations,positive
+1039,24,Female,43574,89,Sports,Not worth the money,No,worth money,neutral
+1040,38,Female,43524,18,Electronics,"Product was okay, could be better",No,product okay could better,neutral
+1041,26,Male,89172,40,Electronics,Customer support was unhelpful,No,customer support unhelpful,negative
+1042,56,Male,30916,72,Groceries,Exceeded my expectations,No,exceeded expectations,positive
+1043,35,Female,24809,39,Home Decor,Exceeded my expectations,Yes,exceeded expectations,positive
+1044,21,Male,52201,14,Fashion,Too expensive for the quality,Yes,expensive quality,negative
+1045,42,Male,73330,32,Fashion,Customer support was unhelpful,No,customer support unhelpful,negative
+1046,31,Female,33456,51,Sports,"Terrible service, not happy",No,terrible service happy,neutral
+1047,26,Female,76397,38,Sports,"Loved it, will buy again",Yes,loved buy,positive
+1048,43,Female,58765,97,Fashion,"Terrible service, not happy",No,terrible service happy,neutral
+1049,19,Female,54816,23,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1050,37,Male,65106,63,Groceries,"Terrible service, not happy",No,terrible service happy,neutral
+1051,45,Female,73932,15,Fashion,"Great quality, very satisfied",No,great quality satisfied,positive
+1052,64,Female,37100,97,Sports,Not worth the money,No,worth money,neutral
+1053,24,Male,77091,25,Fashion,"Great quality, very satisfied",No,great quality satisfied,positive
+1054,61,Female,41949,17,Home Decor,Highly recommend this product,No,highly recommend product,positive
+1055,25,Female,90080,97,Electronics,"Terrible service, not happy",Yes,terrible service happy,neutral
+1056,64,Female,57744,66,Fashion,Highly recommend this product,Yes,highly recommend product,positive
+1057,52,Female,65543,78,Electronics,"Product was okay, could be better",No,product okay could better,neutral
+1058,31,Female,112193,53,Sports,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1059,34,Male,56187,51,Electronics,"Product was okay, could be better",Yes,product okay could better,neutral
+1060,53,Male,27239,39,Fashion,Customer support was unhelpful,No,customer support unhelpful,negative
+1061,57,Female,34489,51,Home Decor,Exceeded my expectations,No,exceeded expectations,positive
+1062,21,Female,78017,70,Sports,Not worth the money,Yes,worth money,neutral
+1063,19,Female,81877,6,Fashion,"Terrible service, not happy",No,terrible service happy,neutral
+1064,23,Female,63125,67,Sports,Too expensive for the quality,No,expensive quality,negative
+1065,59,Female,69922,7,Groceries,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1066,21,Female,114074,51,Electronics,"Loved it, will buy again",Yes,loved buy,positive
+1067,46,Female,52049,72,Groceries,"Loved it, will buy again",No,loved buy,positive
+1068,35,Female,57131,42,Fashion,"Loved it, will buy again",No,loved buy,positive
+1069,43,Female,62944,64,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1070,61,Female,93963,15,Sports,"Loved it, will buy again",No,loved buy,positive
+1071,51,Female,44285,29,Electronics,"Great quality, very satisfied",No,great quality satisfied,positive
+1072,27,Male,57626,33,Sports,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1073,53,Male,62808,94,Fashion,"Great quality, very satisfied",No,great quality satisfied,positive
+1074,31,Male,108464,27,Sports,Exceeded my expectations,No,exceeded expectations,positive
+1075,48,Female,73871,36,Electronics,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1076,65,Male,39198,29,Fashion,"Great quality, very satisfied",No,great quality satisfied,positive
+1077,32,Male,39758,38,Sports,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1078,25,Female,35254,57,Home Decor,Exceeded my expectations,No,exceeded expectations,positive
+1079,31,Male,64238,97,Fashion,Highly recommend this product,Yes,highly recommend product,positive
+1080,40,Female,21252,27,Fashion,"Terrible service, not happy",No,terrible service happy,neutral
+1081,57,Male,59764,55,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1082,38,Male,97709,33,Groceries,"Loved it, will buy again",No,loved buy,positive
+1083,33,Female,57441,68,Electronics,"Product was okay, could be better",Yes,product okay could better,neutral
+1084,62,Male,112234,86,Groceries,"Loved it, will buy again",No,loved buy,positive
+1085,35,Male,73682,66,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1086,64,Female,79494,10,Home Decor,"Great quality, very satisfied",Yes,great quality satisfied,positive
+1087,41,Female,101317,5,Groceries,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1088,43,Male,85215,74,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1089,42,Female,98587,97,Sports,Exceeded my expectations,No,exceeded expectations,positive
+1090,62,Male,26949,38,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1091,58,Male,75393,13,Groceries,Exceeded my expectations,No,exceeded expectations,positive
+1092,46,Female,93553,31,Groceries,"Terrible service, not happy",No,terrible service happy,neutral
+1093,32,Female,26941,47,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1094,62,Female,45934,100,Electronics,"Loved it, will buy again",No,loved buy,positive
+1095,18,Female,43386,88,Groceries,"Great quality, very satisfied",No,great quality satisfied,positive
+1096,42,Female,81886,52,Groceries,"Product was okay, could be better",No,product okay could better,neutral
+1097,24,Female,95745,56,Fashion,Not worth the money,No,worth money,neutral
+1098,26,Male,103251,15,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1099,41,Female,114456,29,Electronics,Customer support was unhelpful,No,customer support unhelpful,negative
+1100,18,Male,73413,8,Fashion,"Loved it, will buy again",No,loved buy,positive
+1101,61,Male,76800,5,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1102,25,Male,117239,29,Home Decor,"Loved it, will buy again",Yes,loved buy,positive
+1103,41,Male,62318,47,Groceries,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1104,28,Female,90173,68,Groceries,"Product was okay, could be better",Yes,product okay could better,neutral
+1105,34,Female,90390,76,Home Decor,"Great quality, very satisfied",No,great quality satisfied,positive
+1106,25,Female,72329,45,Groceries,Highly recommend this product,No,highly recommend product,positive
+1107,52,Male,63088,2,Electronics,Too expensive for the quality,No,expensive quality,negative
+1108,52,Male,59811,27,Groceries,Too expensive for the quality,No,expensive quality,negative
+1109,50,Male,75479,95,Sports,"Loved it, will buy again",No,loved buy,positive
+1110,22,Male,105392,36,Groceries,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1111,59,Female,107369,36,Fashion,"Product was okay, could be better",Yes,product okay could better,neutral
+1112,56,Female,39963,26,Electronics,Not worth the money,No,worth money,neutral
+1113,58,Female,75123,43,Fashion,Too expensive for the quality,Yes,expensive quality,negative
+1114,45,Male,112705,27,Fashion,"Product was okay, could be better",Yes,product okay could better,neutral
+1115,24,Female,93477,69,Sports,"Great quality, very satisfied",No,great quality satisfied,positive
+1116,26,Female,34388,20,Electronics,Exceeded my expectations,No,exceeded expectations,positive
+1117,25,Female,25569,11,Electronics,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1118,29,Female,89836,74,Electronics,"Terrible service, not happy",No,terrible service happy,neutral
+1119,51,Male,56586,38,Electronics,"Product was okay, could be better",No,product okay could better,neutral
+1120,50,Male,32015,6,Electronics,"Great quality, very satisfied",No,great quality satisfied,positive
+1121,65,Male,65002,72,Sports,Not worth the money,No,worth money,neutral
+1122,40,Female,26254,23,Groceries,Highly recommend this product,No,highly recommend product,positive
+1123,41,Male,37144,47,Fashion,"Terrible service, not happy",Yes,terrible service happy,neutral
+1124,54,Male,44214,90,Electronics,Highly recommend this product,No,highly recommend product,positive
+1125,52,Male,100719,46,Groceries,Not worth the money,No,worth money,neutral
+1126,61,Male,91774,12,Groceries,"Great quality, very satisfied",No,great quality satisfied,positive
+1127,57,Female,26090,90,Fashion,Too expensive for the quality,No,expensive quality,negative
+1128,39,Female,31637,13,Sports,Highly recommend this product,No,highly recommend product,positive
+1129,44,Male,42415,62,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1130,52,Male,44071,82,Home Decor,"Loved it, will buy again",No,loved buy,positive
+1131,18,Female,78243,89,Groceries,Customer support was unhelpful,No,customer support unhelpful,negative
+1132,52,Male,61240,97,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1133,54,Male,103807,60,Home Decor,Too expensive for the quality,No,expensive quality,negative
+1134,64,Male,53434,43,Groceries,Highly recommend this product,Yes,highly recommend product,positive
+1135,31,Male,89724,76,Sports,Exceeded my expectations,Yes,exceeded expectations,positive
+1136,20,Female,95697,100,Home Decor,"Product was okay, could be better",Yes,product okay could better,neutral
+1137,18,Female,48732,68,Groceries,"Loved it, will buy again",No,loved buy,positive
+1138,22,Male,31314,5,Groceries,Not worth the money,No,worth money,neutral
+1139,43,Male,43954,37,Electronics,Customer support was unhelpful,Yes,customer support unhelpful,negative
+1140,31,Female,77108,72,Sports,"Great quality, very satisfied",No,great quality satisfied,positive
+1141,56,Female,107044,92,Electronics,"Loved it, will buy again",Yes,loved buy,positive
+1142,44,Female,107505,31,Fashion,"Loved it, will buy again",No,loved buy,positive
+1143,26,Female,56668,9,Electronics,Not worth the money,No,worth money,neutral
+1144,32,Male,43061,51,Electronics,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1145,32,Male,99252,29,Home Decor,Not worth the money,No,worth money,neutral
+1146,43,Female,59749,78,Groceries,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1147,59,Male,36907,40,Sports,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1148,30,Female,38777,41,Electronics,Too expensive for the quality,No,expensive quality,negative
+1149,49,Female,113229,86,Sports,Too expensive for the quality,No,expensive quality,negative
+1150,56,Female,71745,11,Electronics,"Terrible service, not happy",No,terrible service happy,neutral
+1151,49,Male,111865,23,Fashion,Highly recommend this product,No,highly recommend product,positive
+1152,21,Female,101818,1,Electronics,Highly recommend this product,No,highly recommend product,positive
+1153,47,Male,43624,46,Home Decor,"Great quality, very satisfied",No,great quality satisfied,positive
+1154,54,Female,43321,21,Groceries,Highly recommend this product,Yes,highly recommend product,positive
+1155,40,Female,30488,90,Fashion,Too expensive for the quality,No,expensive quality,negative
+1156,56,Male,42574,36,Electronics,"Terrible service, not happy",Yes,terrible service happy,neutral
+1157,62,Female,25240,54,Sports,"Terrible service, not happy",Yes,terrible service happy,neutral
+1158,32,Female,63221,87,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1159,60,Male,30478,57,Fashion,Not worth the money,Yes,worth money,neutral
+1160,46,Male,75645,1,Electronics,"Great quality, very satisfied",No,great quality satisfied,positive
+1161,53,Male,39262,63,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1162,30,Male,72796,54,Sports,Not worth the money,Yes,worth money,neutral
+1163,49,Male,24432,55,Fashion,Highly recommend this product,No,highly recommend product,positive
+1164,24,Female,115257,40,Sports,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1165,39,Male,84291,15,Electronics,"Product was okay, could be better",No,product okay could better,neutral
+1166,45,Male,99104,21,Groceries,Highly recommend this product,No,highly recommend product,positive
+1167,19,Female,79399,47,Fashion,Not worth the money,No,worth money,neutral
+1168,59,Male,99714,73,Groceries,"Great quality, very satisfied",No,great quality satisfied,positive
+1169,62,Female,70428,53,Sports,Not worth the money,Yes,worth money,neutral
+1170,23,Male,107731,9,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1171,45,Male,20302,74,Home Decor,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1172,45,Female,102558,52,Groceries,"Loved it, will buy again",No,loved buy,positive
+1173,61,Female,20055,57,Fashion,"Great quality, very satisfied",No,great quality satisfied,positive
+1174,61,Female,28717,26,Groceries,Exceeded my expectations,No,exceeded expectations,positive
+1175,37,Female,48699,41,Fashion,Highly recommend this product,Yes,highly recommend product,positive
+1176,47,Female,93686,35,Electronics,"Terrible service, not happy",Yes,terrible service happy,neutral
+1177,28,Male,87661,63,Groceries,"Great quality, very satisfied",No,great quality satisfied,positive
+1178,45,Male,64247,25,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1179,42,Female,36748,90,Home Decor,"Great quality, very satisfied",No,great quality satisfied,positive
+1180,56,Female,24621,75,Sports,"Great quality, very satisfied",No,great quality satisfied,positive
+1181,50,Female,35034,38,Fashion,Not worth the money,No,worth money,neutral
+1182,18,Male,25126,2,Groceries,"Great quality, very satisfied",Yes,great quality satisfied,positive
+1183,44,Male,25122,7,Sports,"Loved it, will buy again",No,loved buy,positive
+1184,30,Female,38030,82,Groceries,Exceeded my expectations,Yes,exceeded expectations,positive
+1185,58,Male,102838,91,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1186,20,Female,104717,34,Home Decor,Customer support was unhelpful,No,customer support unhelpful,negative
+1187,56,Female,75658,91,Electronics,"Terrible service, not happy",No,terrible service happy,neutral
+1188,23,Male,58638,17,Home Decor,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1189,25,Female,87067,43,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1190,44,Female,108869,59,Electronics,Exceeded my expectations,No,exceeded expectations,positive
+1191,26,Male,54674,51,Sports,Exceeded my expectations,No,exceeded expectations,positive
+1192,54,Female,55854,54,Fashion,"Terrible service, not happy",Yes,terrible service happy,neutral
+1193,50,Female,66271,24,Electronics,"Terrible service, not happy",No,terrible service happy,neutral
+1194,59,Female,93688,25,Sports,Exceeded my expectations,No,exceeded expectations,positive
+1195,61,Male,58518,71,Fashion,Customer support was unhelpful,Yes,customer support unhelpful,negative
+1196,41,Female,30267,52,Home Decor,"Great quality, very satisfied",Yes,great quality satisfied,positive
+1197,32,Male,110825,70,Fashion,Highly recommend this product,Yes,highly recommend product,positive
+1198,49,Male,21062,88,Groceries,"Product was okay, could be better",No,product okay could better,neutral
+1199,49,Female,70448,33,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1200,41,Male,115462,49,Fashion,Not worth the money,No,worth money,neutral
+1201,58,Male,26229,29,Groceries,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1202,29,Female,76793,63,Sports,Not worth the money,No,worth money,neutral
+1203,56,Female,67915,22,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1204,19,Female,24632,26,Fashion,Not worth the money,No,worth money,neutral
+1205,20,Female,23596,28,Groceries,"Terrible service, not happy",No,terrible service happy,neutral
+1206,54,Male,26168,85,Groceries,Highly recommend this product,Yes,highly recommend product,positive
+1207,34,Male,27561,49,Home Decor,Highly recommend this product,No,highly recommend product,positive
+1208,19,Male,93794,71,Sports,"Terrible service, not happy",No,terrible service happy,neutral
+1209,19,Female,102152,81,Electronics,"Loved it, will buy again",No,loved buy,positive
+1210,45,Female,46734,84,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1211,40,Female,26371,49,Sports,"Loved it, will buy again",No,loved buy,positive
+1212,54,Female,46069,20,Home Decor,"Loved it, will buy again",No,loved buy,positive
+1213,49,Male,99905,86,Electronics,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1214,50,Female,32910,92,Home Decor,Exceeded my expectations,Yes,exceeded expectations,positive
+1215,18,Male,93479,63,Electronics,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1216,36,Female,97735,61,Fashion,Exceeded my expectations,No,exceeded expectations,positive
+1217,19,Male,101264,49,Electronics,"Product was okay, could be better",Yes,product okay could better,neutral
+1218,61,Female,43275,71,Home Decor,Not worth the money,Yes,worth money,neutral
+1219,43,Male,92274,1,Sports,Exceeded my expectations,Yes,exceeded expectations,positive
+1220,49,Male,101449,96,Electronics,"Terrible service, not happy",No,terrible service happy,neutral
+1221,23,Male,80004,13,Electronics,Fast delivery and good packaging,Yes,fast delivery good packaging,positive
+1222,49,Female,82981,94,Groceries,Customer support was unhelpful,No,customer support unhelpful,negative
+1223,21,Female,104659,87,Sports,Not worth the money,Yes,worth money,neutral
+1224,28,Male,74553,51,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1225,34,Male,68447,56,Home Decor,Exceeded my expectations,Yes,exceeded expectations,positive
+1226,55,Female,54529,83,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1227,41,Male,95703,62,Sports,Customer support was unhelpful,Yes,customer support unhelpful,negative
+1228,22,Female,96090,32,Electronics,"Loved it, will buy again",No,loved buy,positive
+1229,51,Female,37260,30,Electronics,Highly recommend this product,Yes,highly recommend product,positive
+1230,23,Male,23812,29,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1231,39,Male,48024,49,Electronics,Too expensive for the quality,No,expensive quality,negative
+1232,28,Female,78656,45,Electronics,Customer support was unhelpful,No,customer support unhelpful,negative
+1233,65,Male,47285,93,Electronics,"Product was okay, could be better",No,product okay could better,neutral
+1234,33,Male,112436,30,Home Decor,"Terrible service, not happy",No,terrible service happy,neutral
+1235,50,Female,21605,16,Home Decor,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1236,26,Female,91158,40,Groceries,"Terrible service, not happy",No,terrible service happy,neutral
+1237,23,Female,92303,19,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1238,33,Female,47139,18,Sports,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1239,46,Male,97149,1,Sports,Too expensive for the quality,No,expensive quality,negative
+1240,20,Male,76138,78,Sports,Highly recommend this product,No,highly recommend product,positive
+1241,37,Female,96125,47,Groceries,Not worth the money,No,worth money,neutral
+1242,53,Female,33918,66,Home Decor,"Product was okay, could be better",Yes,product okay could better,neutral
+1243,36,Male,105655,92,Groceries,Exceeded my expectations,No,exceeded expectations,positive
+1244,43,Female,47446,94,Sports,"Product was okay, could be better",No,product okay could better,neutral
+1245,20,Male,33046,38,Fashion,"Product was okay, could be better",Yes,product okay could better,neutral
+1246,36,Female,44818,51,Electronics,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1247,37,Male,24324,63,Home Decor,"Great quality, very satisfied",Yes,great quality satisfied,positive
+1248,49,Male,96323,4,Home Decor,Customer support was unhelpful,No,customer support unhelpful,negative
+1249,24,Male,29111,1,Groceries,"Great quality, very satisfied",Yes,great quality satisfied,positive
+1250,58,Male,58110,8,Home Decor,Too expensive for the quality,No,expensive quality,negative
+1251,50,Male,36389,29,Sports,Exceeded my expectations,No,exceeded expectations,positive
+1252,57,Female,61427,55,Sports,Highly recommend this product,No,highly recommend product,positive
+1253,56,Female,99579,3,Groceries,"Loved it, will buy again",No,loved buy,positive
+1254,35,Female,48746,32,Sports,Too expensive for the quality,No,expensive quality,negative
+1255,57,Female,107886,10,Fashion,"Loved it, will buy again",No,loved buy,positive
+1256,18,Male,20117,74,Groceries,"Loved it, will buy again",Yes,loved buy,positive
+1257,28,Male,104471,83,Fashion,Highly recommend this product,No,highly recommend product,positive
+1258,45,Female,33234,34,Electronics,"Terrible service, not happy",Yes,terrible service happy,neutral
+1259,42,Male,73441,97,Fashion,"Great quality, very satisfied",No,great quality satisfied,positive
+1260,40,Female,20846,87,Electronics,"Product was okay, could be better",No,product okay could better,neutral
+1261,48,Male,30954,55,Electronics,Not worth the money,No,worth money,neutral
+1262,47,Female,99239,92,Fashion,"Loved it, will buy again",No,loved buy,positive
+1263,59,Male,66514,32,Groceries,Exceeded my expectations,No,exceeded expectations,positive
+1264,52,Female,108236,50,Sports,Too expensive for the quality,No,expensive quality,negative
+1265,24,Female,117579,7,Sports,"Terrible service, not happy",Yes,terrible service happy,neutral
+1266,33,Female,26469,93,Electronics,"Loved it, will buy again",No,loved buy,positive
+1267,43,Male,50105,8,Electronics,"Terrible service, not happy",Yes,terrible service happy,neutral
+1268,65,Female,62101,65,Groceries,"Terrible service, not happy",No,terrible service happy,neutral
+1269,19,Female,84323,57,Home Decor,"Loved it, will buy again",No,loved buy,positive
+1270,18,Female,111922,67,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1271,65,Female,78067,88,Electronics,Customer support was unhelpful,Yes,customer support unhelpful,negative
+1272,29,Female,69376,87,Sports,Exceeded my expectations,No,exceeded expectations,positive
+1273,22,Male,65587,59,Groceries,"Product was okay, could be better",Yes,product okay could better,neutral
+1274,54,Female,56976,72,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1275,49,Female,87584,54,Groceries,Exceeded my expectations,Yes,exceeded expectations,positive
+1276,26,Female,98477,67,Fashion,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1277,58,Male,62533,51,Fashion,"Product was okay, could be better",No,product okay could better,neutral
+1278,52,Male,21828,97,Electronics,"Terrible service, not happy",No,terrible service happy,neutral
+1279,36,Female,21917,92,Groceries,Highly recommend this product,No,highly recommend product,positive
+1280,65,Female,40618,8,Groceries,Too expensive for the quality,No,expensive quality,negative
+1281,33,Male,52254,34,Sports,"Great quality, very satisfied",No,great quality satisfied,positive
+1282,20,Female,67362,35,Sports,"Product was okay, could be better",No,product okay could better,neutral
+1283,37,Male,40128,96,Electronics,Exceeded my expectations,No,exceeded expectations,positive
+1284,41,Male,79383,88,Electronics,Highly recommend this product,No,highly recommend product,positive
+1285,50,Male,85545,78,Home Decor,"Loved it, will buy again",No,loved buy,positive
+1286,41,Male,102180,32,Sports,Customer support was unhelpful,No,customer support unhelpful,negative
+1287,28,Female,107958,46,Fashion,Exceeded my expectations,Yes,exceeded expectations,positive
+1288,25,Male,29865,16,Groceries,"Terrible service, not happy",No,terrible service happy,neutral
+1289,53,Female,22219,68,Electronics,Customer support was unhelpful,Yes,customer support unhelpful,negative
+1290,55,Female,59809,37,Groceries,Too expensive for the quality,No,expensive quality,negative
+1291,57,Female,25287,54,Groceries,Too expensive for the quality,No,expensive quality,negative
+1292,37,Female,54387,85,Home Decor,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1293,52,Male,28512,14,Sports,Not worth the money,No,worth money,neutral
+1294,65,Female,21342,95,Electronics,Fast delivery and good packaging,No,fast delivery good packaging,positive
+1295,42,Female,83076,55,Groceries,Highly recommend this product,No,highly recommend product,positive
+1296,52,Male,39216,48,Electronics,Customer support was unhelpful,No,customer support unhelpful,negative
+1297,42,Female,113070,82,Fashion,Not worth the money,Yes,worth money,neutral
+1298,46,Female,99767,7,Home Decor,"Loved it, will buy again",No,loved buy,positive
+1299,35,Female,117829,74,Fashion,"Terrible service, not happy",Yes,terrible service happy,neutral
+1300,63,Female,46614,7,Electronics,Customer support was unhelpful,No,customer support unhelpful,negative
