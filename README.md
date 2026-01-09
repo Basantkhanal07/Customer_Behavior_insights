@@ -10,6 +10,19 @@ A comprehensive machine learning project that analyzes customer behavior data to
 
 This project implements an end-to-end data science pipeline to understand customer behavior patterns and predict churn. The analysis combines multiple machine learning techniques to provide business-ready insights that help organizations reduce customer attrition, optimize marketing strategies, and enhance operational efficiency.
 
+---
+
+## 🌐 Live Application & Repository
+
+- 🔗 **Streamlit App:**  
+  https://customer-behavior-insights-basant.streamlit.app/
+
+- 🔗 **GitHub Repository:**  
+  https://github.com/Basantkhanal07/Customer_Behavior_insights
+
+
+---
+
 ### Key Features
 
 - **Churn Prediction**: Random Forest classifier for identifying at-risk customers
