@@ -2,6 +2,9 @@
 
 A comprehensive machine learning project that analyzes customer behavior data to derive actionable business insights through data cleaning, exploratory data analysis, churn prediction, customer segmentation, and NLP-based sentiment analysis.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-behavior-insights-basant.streamlit.app/)
+
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
